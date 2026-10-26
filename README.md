@@ -1,4 +1,4 @@
-# Job-Recruitment Phishing URL Detection — Random Forest
+# Job-Recruitment Phishing URL Detection using Random Forest
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/<github-username>/<repo-name>/blob/main/phishing_rf_colab.ipynb)
 
