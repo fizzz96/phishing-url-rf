@@ -1,6 +1,6 @@
 # Job-Recruitment Phishing URL Detection using Random Forest
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/<github-username>/<repo-name>/blob/main/phishing_rf_colab.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/fizzz96/phishing-url-rf/blob/main/phishing_rf_colab.ipynb)
 
 Lexical-feature Random Forest classifier for job-recruitment phishing URLs.
 
