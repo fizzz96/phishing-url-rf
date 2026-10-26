@@ -12,10 +12,10 @@ Click **Open in Colab**, then *Runtime → Run all*. The notebook downloads the 
 
 | File | Rows | SHA-256 |
 |---|---|---|
-| `data/train_features.csv` | 6,298 | `bd41c77df42ddd0eef9c774818f6516118bf86d9220948fb568198b1e9678f83` |
-| `data/test_features.csv` | 1,575 | `ca038969f8fe216ba2f5662414fe676a086c0b863dd6d6d0fe362a15e0478ac8` |
+| `data/train_features.csv` | 6,298 | `b62d19c9d1f07d504cbfac679a06bd07c7b212926e24947cfcb9eb4c10706c2a` |
+| `data/test_features.csv` | 1,575 | `9cf35014953f51dac1b249cbaf067f00b40b259480af488a251f8753c214fb4e` |
 
-Semicolon-delimited. `label`: 1 = phishing, 0 = legitimate.
+Comma-delimited. `ClassLabel`: 1 = phishing, 0 = legitimate. 24 lexical URL features (21 used after dropping zero-variance columns).
 
 ## Environment
 
