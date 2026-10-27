@@ -45,6 +45,17 @@ Rules:
 - Use the same 21 features for every model (the 24 columns minus `hash`, `hasipaddress`, `suspiciousfileextension`, which are constant in train).
 - Save per-fold scores to `results/cv_scores_<model>.csv` with columns `model, fold, metric, value` and metrics `accuracy, precision, recall, f1, roc_auc, mcc`. See `results/cv_scores_randomforest.csv`.
 
+## Five-model comparison
+
+`compare_models.py` reproduces the comparison tables in the paper: five models with default hyperparameters (logistic regression, SVM with Platt scaling, random forest, LightGBM, XGBoost), the same 21 features, the shared site-grouped folds, a hold-out test evaluation, a corrected resampled t-test on fold-level MCC, and a sensitivity run without `httpsflag`.
+
+```bash
+pip install lightgbm xgboost
+python compare_models.py data results
+```
+
+Outputs: `results/cv_scores_all_models.csv`, `results/test_scores_all_models.csv`, `results/paired_tests_mcc.csv`.
+
 ## Environment
 
 Python 3, scikit-learn ≥ 1.0 (reference run: 1.9.1), pandas, NumPy, Matplotlib, seaborn. All preinstalled on Colab.

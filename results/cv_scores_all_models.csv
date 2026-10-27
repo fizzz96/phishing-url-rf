@@ -1,0 +1,301 @@
+setting,model,fold,metric,value
+all 21 features,Logistic Regression,0,Accuracy,0.9301948051948052
+all 21 features,Logistic Regression,0,Precision,0.9567723342939481
+all 21 features,Logistic Regression,0,Recall,0.9222222222222223
+all 21 features,Logistic Regression,0,F1,0.9391796322489392
+all 21 features,Logistic Regression,0,ROC-AUC,0.9786756727430556
+all 21 features,Logistic Regression,0,MCC,0.8581383430806839
+all 21 features,Logistic Regression,1,Accuracy,0.9470729751403368
+all 21 features,Logistic Regression,1,Precision,0.9725433526011561
+all 21 features,Logistic Regression,1,Recall,0.9347222222222222
+all 21 features,Logistic Regression,1,F1,0.953257790368272
+all 21 features,Logistic Regression,1,ROC-AUC,0.9791350411132196
+all 21 features,Logistic Regression,1,MCC,0.8932475257690914
+all 21 features,Logistic Regression,2,Accuracy,0.8469468675654243
+all 21 features,Logistic Regression,2,Precision,0.832282471626734
+all 21 features,Logistic Regression,2,Recall,0.9166666666666666
+all 21 features,Logistic Regression,2,F1,0.8724388631857237
+all 21 features,Logistic Regression,2,ROC-AUC,0.9134652906140891
+all 21 features,Logistic Regression,2,MCC,0.6872504118284644
+all 21 features,Logistic Regression,3,Accuracy,0.9396024464831805
+all 21 features,Logistic Regression,3,Precision,0.9819548872180451
+all 21 features,Logistic Regression,3,Recall,0.9069444444444444
+all 21 features,Logistic Regression,3,F1,0.9429602888086642
+all 21 features,Logistic Regression,3,ROC-AUC,0.9640306122448979
+all 21 features,Logistic Regression,3,MCC,0.8821351261292846
+all 21 features,Logistic Regression,4,Accuracy,0.9224
+all 21 features,Logistic Regression,4,Precision,0.9170013386880856
+all 21 features,Logistic Regression,4,Recall,0.9513888888888888
+all 21 features,Logistic Regression,4,F1,0.9338786639400136
+all 21 features,Logistic Regression,4,ROC-AUC,0.9800655136268344
+all 21 features,Logistic Regression,4,MCC,0.8408881305643461
+all 21 features,"SVM (RBF, Platt)",0,Accuracy,0.913961038961039
+all 21 features,"SVM (RBF, Platt)",0,Precision,0.910427807486631
+all 21 features,"SVM (RBF, Platt)",0,Recall,0.9458333333333333
+all 21 features,"SVM (RBF, Platt)",0,F1,0.9277929155313351
+all 21 features,"SVM (RBF, Platt)",0,ROC-AUC,0.9801974826388888
+all 21 features,"SVM (RBF, Platt)",0,MCC,0.822377993893059
+all 21 features,"SVM (RBF, Platt)",1,Accuracy,0.9077786688051324
+all 21 features,"SVM (RBF, Platt)",1,Precision,0.8853503184713376
+all 21 features,"SVM (RBF, Platt)",1,Recall,0.9652777777777778
+all 21 features,"SVM (RBF, Platt)",1,F1,0.9235880398671097
+all 21 features,"SVM (RBF, Platt)",1,ROC-AUC,0.9814147164242041
+all 21 features,"SVM (RBF, Platt)",1,MCC,0.8126612015639468
+all 21 features,"SVM (RBF, Platt)",2,Accuracy,0.8842188739095955
+all 21 features,"SVM (RBF, Platt)",2,Precision,0.8651399491094147
+all 21 features,"SVM (RBF, Platt)",2,Recall,0.9444444444444444
+all 21 features,"SVM (RBF, Platt)",2,F1,0.9030544488711819
+all 21 features,"SVM (RBF, Platt)",2,ROC-AUC,0.9456638940234134
+all 21 features,"SVM (RBF, Platt)",2,MCC,0.7645483985476552
+all 21 features,"SVM (RBF, Platt)",3,Accuracy,0.9533639143730887
+all 21 features,"SVM (RBF, Platt)",3,Precision,0.9673758865248226
+all 21 features,"SVM (RBF, Platt)",3,Recall,0.9472222222222222
+all 21 features,"SVM (RBF, Platt)",3,F1,0.9571929824561404
+all 21 features,"SVM (RBF, Platt)",3,ROC-AUC,0.9718986205593348
+all 21 features,"SVM (RBF, Platt)",3,MCC,0.90623017159252
+all 21 features,"SVM (RBF, Platt)",4,Accuracy,0.9328
+all 21 features,"SVM (RBF, Platt)",4,Precision,0.912987012987013
+all 21 features,"SVM (RBF, Platt)",4,Recall,0.9763888888888889
+all 21 features,"SVM (RBF, Platt)",4,F1,0.9436241610738255
+all 21 features,"SVM (RBF, Platt)",4,ROC-AUC,0.9893003144654089
+all 21 features,"SVM (RBF, Platt)",4,MCC,0.863661853531704
+all 21 features,Random Forest,0,Accuracy,0.9253246753246753
+all 21 features,Random Forest,0,Precision,0.9088541666666666
+all 21 features,Random Forest,0,Recall,0.9694444444444444
+all 21 features,Random Forest,0,F1,0.9381720430107527
+all 21 features,Random Forest,0,ROC-AUC,0.9827582465277779
+all 21 features,Random Forest,0,MCC,0.8469613528951085
+all 21 features,Random Forest,1,Accuracy,0.7939053728949479
+all 21 features,Random Forest,1,Precision,0.744973544973545
+all 21 features,Random Forest,1,Recall,0.9777777777777777
+all 21 features,Random Forest,1,F1,0.8456456456456456
+all 21 features,Random Forest,1,ROC-AUC,0.9793682795698924
+all 21 features,Random Forest,1,MCC,0.6001361392663782
+all 21 features,Random Forest,2,Accuracy,0.7914353687549563
+all 21 features,Random Forest,2,Precision,0.7513751375137514
+all 21 features,Random Forest,2,Recall,0.9486111111111111
+all 21 features,Random Forest,2,F1,0.8385512584407612
+all 21 features,Random Forest,2,ROC-AUC,0.934401314438283
+all 21 features,Random Forest,2,MCC,0.5857289335793205
+all 21 features,Random Forest,3,Accuracy,0.8516819571865444
+all 21 features,Random Forest,3,Precision,0.8065268065268065
+all 21 features,Random Forest,3,Recall,0.9611111111111111
+all 21 features,Random Forest,3,F1,0.8770595690747782
+all 21 features,Random Forest,3,ROC-AUC,0.9623110355253213
+all 21 features,Random Forest,3,MCC,0.7107971592610328
+all 21 features,Random Forest,4,Accuracy,0.9184
+all 21 features,Random Forest,4,Precision,0.8843283582089553
+all 21 features,Random Forest,4,Recall,0.9875
+all 21 features,Random Forest,4,F1,0.9330708661417323
+all 21 features,Random Forest,4,ROC-AUC,0.9898309748427674
+all 21 features,Random Forest,4,MCC,0.8376833731716479
+all 21 features,LightGBM,0,Accuracy,0.9253246753246753
+all 21 features,LightGBM,0,Precision,0.9131578947368421
+all 21 features,LightGBM,0,Recall,0.9638888888888889
+all 21 features,LightGBM,0,F1,0.9378378378378378
+all 21 features,LightGBM,0,ROC-AUC,0.9854139539930554
+all 21 features,LightGBM,0,MCC,0.8464491610782764
+all 21 features,LightGBM,1,Accuracy,0.8516439454691259
+all 21 features,LightGBM,1,Precision,0.8036322360953462
+all 21 features,LightGBM,1,Recall,0.9833333333333333
+all 21 features,LightGBM,1,F1,0.8844472204871955
+all 21 features,LightGBM,1,ROC-AUC,0.9828734450769554
+all 21 features,LightGBM,1,MCC,0.7105983561668205
+all 21 features,LightGBM,2,Accuracy,0.7779540047581285
+all 21 features,LightGBM,2,Precision,0.7433628318584071
+all 21 features,LightGBM,2,Recall,0.9333333333333333
+all 21 features,LightGBM,2,F1,0.8275862068965517
+all 21 features,LightGBM,2,ROC-AUC,0.914579482439926
+all 21 features,LightGBM,2,MCC,0.5542502167675738
+all 21 features,LightGBM,3,Accuracy,0.8371559633027523
+all 21 features,LightGBM,3,Precision,0.7877412031782066
+all 21 features,LightGBM,3,Recall,0.9638888888888889
+all 21 features,LightGBM,3,F1,0.8669581511555278
+all 21 features,LightGBM,3,ROC-AUC,0.8871527777777777
+all 21 features,LightGBM,3,MCC,0.6851608447080075
+all 21 features,LightGBM,4,Accuracy,0.9168
+all 21 features,LightGBM,4,Precision,0.8811881188118812
+all 21 features,LightGBM,4,Recall,0.9888888888888889
+all 21 features,LightGBM,4,F1,0.9319371727748691
+all 21 features,LightGBM,4,ROC-AUC,0.993180031446541
+all 21 features,LightGBM,4,MCC,0.8349644747236515
+all 21 features,XGBoost,0,Accuracy,0.9464285714285714
+all 21 features,XGBoost,0,Precision,0.9407008086253369
+all 21 features,XGBoost,0,Recall,0.9694444444444444
+all 21 features,XGBoost,0,F1,0.9548563611491108
+all 21 features,XGBoost,0,ROC-AUC,0.9861382378472223
+all 21 features,XGBoost,0,MCC,0.8896336540030569
+all 21 features,XGBoost,1,Accuracy,0.8748997594226142
+all 21 features,XGBoost,1,Precision,0.8333333333333334
+all 21 features,XGBoost,1,Recall,0.9791666666666666
+all 21 features,XGBoost,1,F1,0.9003831417624522
+all 21 features,XGBoost,1,ROC-AUC,0.9858726017288636
+all 21 features,XGBoost,1,MCC,0.7525909079572277
+all 21 features,XGBoost,2,Accuracy,0.8263283108643933
+all 21 features,XGBoost,2,Precision,0.7929824561403509
+all 21 features,XGBoost,2,Recall,0.9416666666666667
+all 21 features,XGBoost,2,F1,0.8609523809523809
+all 21 features,XGBoost,2,ROC-AUC,0.9397052782912302
+all 21 features,XGBoost,2,MCC,0.6509340539119373
+all 21 features,XGBoost,3,Accuracy,0.8188073394495413
+all 21 features,XGBoost,3,Precision,0.7692307692307693
+all 21 features,XGBoost,3,Recall,0.9583333333333334
+all 21 features,XGBoost,3,F1,0.8534322820037106
+all 21 features,XGBoost,3,ROC-AUC,0.9508574263038547
+all 21 features,XGBoost,3,MCC,0.6497106517422432
+all 21 features,XGBoost,4,Accuracy,0.9136
+all 21 features,XGBoost,4,Precision,0.8787128712871287
+all 21 features,XGBoost,4,Recall,0.9861111111111112
+all 21 features,XGBoost,4,F1,0.9293193717277487
+all 21 features,XGBoost,4,ROC-AUC,0.9887080712788261
+all 21 features,XGBoost,4,MCC,0.8281924425837309
+without httpsflag,Logistic Regression,0,Accuracy,0.9261363636363636
+without httpsflag,Logistic Regression,0,Precision,0.949928469241774
+without httpsflag,Logistic Regression,0,Recall,0.9222222222222223
+without httpsflag,Logistic Regression,0,F1,0.9358703312191684
+without httpsflag,Logistic Regression,0,ROC-AUC,0.9763617621527779
+without httpsflag,Logistic Regression,0,MCC,0.8493509043104184
+without httpsflag,Logistic Regression,1,Accuracy,0.9374498797113071
+without httpsflag,Logistic Regression,1,Precision,0.9734513274336283
+without httpsflag,Logistic Regression,1,Recall,0.9166666666666666
+without httpsflag,Logistic Regression,1,F1,0.944206008583691
+without httpsflag,Logistic Regression,1,ROC-AUC,0.9737666034155599
+without httpsflag,Logistic Regression,1,MCC,0.875227060741024
+without httpsflag,Logistic Regression,2,Accuracy,0.8390166534496432
+without httpsflag,Logistic Regression,2,Precision,0.8318356867779204
+without httpsflag,Logistic Regression,2,Recall,0.9
+without httpsflag,Logistic Regression,2,F1,0.8645763842561708
+without httpsflag,Logistic Regression,2,ROC-AUC,0.9125462107208873
+without httpsflag,Logistic Regression,2,MCC,0.670044051090123
+without httpsflag,Logistic Regression,3,Accuracy,0.926605504587156
+without httpsflag,Logistic Regression,3,Precision,0.9698795180722891
+without httpsflag,Logistic Regression,3,Recall,0.8944444444444445
+without httpsflag,Logistic Regression,3,F1,0.930635838150289
+without httpsflag,Logistic Regression,3,ROC-AUC,0.9609363189720334
+without httpsflag,Logistic Regression,3,MCC,0.8561382597933211
+without httpsflag,Logistic Regression,4,Accuracy,0.9064
+without httpsflag,Logistic Regression,4,Precision,0.8961892247043364
+without httpsflag,Logistic Regression,4,Recall,0.9472222222222222
+without httpsflag,Logistic Regression,4,F1,0.9209993247805537
+without httpsflag,Logistic Regression,4,ROC-AUC,0.9731263102725368
+without httpsflag,Logistic Regression,4,MCC,0.8082587993329848
+without httpsflag,"SVM (RBF, Platt)",0,Accuracy,0.9058441558441559
+without httpsflag,"SVM (RBF, Platt)",0,Precision,0.8984168865435356
+without httpsflag,"SVM (RBF, Platt)",0,Recall,0.9458333333333333
+without httpsflag,"SVM (RBF, Platt)",0,F1,0.9215155615696887
+without httpsflag,"SVM (RBF, Platt)",0,ROC-AUC,0.9764119466145833
+without httpsflag,"SVM (RBF, Platt)",0,MCC,0.8057241113869743
+without httpsflag,"SVM (RBF, Platt)",1,Accuracy,0.896551724137931
+without httpsflag,"SVM (RBF, Platt)",1,Precision,0.8689138576779026
+without httpsflag,"SVM (RBF, Platt)",1,Recall,0.9666666666666667
+without httpsflag,"SVM (RBF, Platt)",1,F1,0.9151873767258383
+without httpsflag,"SVM (RBF, Platt)",1,ROC-AUC,0.9801523297491039
+without httpsflag,"SVM (RBF, Platt)",1,MCC,0.7909047723339775
+without httpsflag,"SVM (RBF, Platt)",2,Accuracy,0.8929421094369548
+without httpsflag,"SVM (RBF, Platt)",2,Precision,0.8853754940711462
+without httpsflag,"SVM (RBF, Platt)",2,Recall,0.9333333333333333
+without httpsflag,"SVM (RBF, Platt)",2,F1,0.9087221095334685
+without httpsflag,"SVM (RBF, Platt)",2,ROC-AUC,0.9493363627028136
+without httpsflag,"SVM (RBF, Platt)",2,MCC,0.7810914427650112
+without httpsflag,"SVM (RBF, Platt)",3,Accuracy,0.9418960244648318
+without httpsflag,"SVM (RBF, Platt)",3,Precision,0.9548022598870056
+without httpsflag,"SVM (RBF, Platt)",3,Recall,0.9388888888888889
+without httpsflag,"SVM (RBF, Platt)",3,F1,0.9467787114845938
+without httpsflag,"SVM (RBF, Platt)",3,ROC-AUC,0.967531179138322
+without httpsflag,"SVM (RBF, Platt)",3,MCC,0.8829667507886816
+without httpsflag,"SVM (RBF, Platt)",4,Accuracy,0.8872
+without httpsflag,"SVM (RBF, Platt)",4,Precision,0.8560885608856088
+without httpsflag,"SVM (RBF, Platt)",4,Recall,0.9666666666666667
+without httpsflag,"SVM (RBF, Platt)",4,F1,0.9080234833659491
+without httpsflag,"SVM (RBF, Platt)",4,ROC-AUC,0.9845754716981132
+without httpsflag,"SVM (RBF, Platt)",4,MCC,0.7730467460332731
+without httpsflag,Random Forest,0,Accuracy,0.9163961038961039
+without httpsflag,Random Forest,0,Precision,0.8990944372574385
+without httpsflag,Random Forest,0,Recall,0.9652777777777778
+without httpsflag,Random Forest,0,F1,0.9310113864701942
+without httpsflag,Random Forest,0,ROC-AUC,0.98082275390625
+without httpsflag,Random Forest,0,MCC,0.8286295974311688
+without httpsflag,Random Forest,1,Accuracy,0.7682437850842021
+without httpsflag,Random Forest,1,Precision,0.7201225740551583
+without httpsflag,Random Forest,1,Recall,0.9791666666666666
+without httpsflag,Random Forest,1,F1,0.8298999411418482
+without httpsflag,Random Forest,1,ROC-AUC,0.975114642631246
+without httpsflag,Random Forest,1,MCC,0.5522744472686325
+without httpsflag,Random Forest,2,Accuracy,0.8865979381443299
+without httpsflag,Random Forest,2,Precision,0.8684546615581098
+without httpsflag,Random Forest,2,Recall,0.9444444444444444
+without httpsflag,Random Forest,2,F1,0.9048569527611444
+without httpsflag,Random Forest,2,ROC-AUC,0.9513593653727666
+without httpsflag,Random Forest,2,MCC,0.7692611670341529
+without httpsflag,Random Forest,3,Accuracy,0.841743119266055
+without httpsflag,Random Forest,3,Precision,0.7972190034762456
+without httpsflag,Random Forest,3,Recall,0.9555555555555556
+without httpsflag,Random Forest,3,F1,0.8692356285533797
+without httpsflag,Random Forest,3,ROC-AUC,0.9555673658352228
+without httpsflag,Random Forest,3,MCC,0.6908018521954173
+without httpsflag,Random Forest,4,Accuracy,0.916
+without httpsflag,Random Forest,4,Precision,0.8838951310861424
+without httpsflag,Random Forest,4,Recall,0.9833333333333333
+without httpsflag,Random Forest,4,F1,0.9309664694280079
+without httpsflag,Random Forest,4,ROC-AUC,0.9837093815513627
+without httpsflag,Random Forest,4,MCC,0.8321502323012707
+without httpsflag,LightGBM,0,Accuracy,0.9212662337662337
+without httpsflag,LightGBM,0,Precision,0.9061277705345502
+without httpsflag,LightGBM,0,Recall,0.9652777777777778
+without httpsflag,LightGBM,0,F1,0.9347679892400808
+without httpsflag,LightGBM,0,ROC-AUC,0.9849582248263887
+without httpsflag,LightGBM,0,MCC,0.8383940673362581
+without httpsflag,LightGBM,1,Accuracy,0.8107457898957497
+without httpsflag,LightGBM,1,Precision,0.7607758620689655
+without httpsflag,LightGBM,1,Recall,0.9805555555555555
+without httpsflag,LightGBM,1,F1,0.8567961165048543
+without httpsflag,LightGBM,1,ROC-AUC,0.9815820683111954
+without httpsflag,LightGBM,1,MCC,0.6332125555177935
+without httpsflag,LightGBM,2,Accuracy,0.8762886597938144
+without httpsflag,LightGBM,2,Precision,0.8560606060606061
+without httpsflag,LightGBM,2,Recall,0.9416666666666667
+without httpsflag,LightGBM,2,F1,0.8968253968253969
+without httpsflag,LightGBM,2,ROC-AUC,0.9423726637913329
+without httpsflag,LightGBM,2,MCC,0.7485159022596142
+without httpsflag,LightGBM,3,Accuracy,0.7958715596330275
+without httpsflag,LightGBM,3,Precision,0.7448648648648649
+without httpsflag,LightGBM,3,Recall,0.9569444444444445
+without httpsflag,LightGBM,3,F1,0.8376899696048632
+without httpsflag,LightGBM,3,ROC-AUC,0.8414824263038548
+without httpsflag,LightGBM,3,MCC,0.6073433912469606
+without httpsflag,LightGBM,4,Accuracy,0.9144
+without httpsflag,LightGBM,4,Precision,0.8826466916354557
+without httpsflag,LightGBM,4,Recall,0.9819444444444444
+without httpsflag,LightGBM,4,F1,0.9296515450361604
+without httpsflag,LightGBM,4,ROC-AUC,0.9906027253668764
+without httpsflag,LightGBM,4,MCC,0.8287760666389619
+without httpsflag,XGBoost,0,Accuracy,0.9228896103896104
+without httpsflag,XGBoost,0,Precision,0.90956749672346
+without httpsflag,XGBoost,0,Recall,0.9638888888888889
+without httpsflag,XGBoost,0,F1,0.9359406608226568
+without httpsflag,XGBoost,0,ROC-AUC,0.9843532986111113
+without httpsflag,XGBoost,0,MCC,0.8415339459233248
+without httpsflag,XGBoost,1,Accuracy,0.8227746591820368
+without httpsflag,XGBoost,1,Precision,0.7744774477447744
+without httpsflag,XGBoost,1,Recall,0.9777777777777777
+without httpsflag,XGBoost,1,F1,0.8643339472068754
+without httpsflag,XGBoost,1,ROC-AUC,0.9776486401012019
+without httpsflag,XGBoost,1,MCC,0.6543149948842898
+without httpsflag,XGBoost,2,Accuracy,0.8850118953211736
+without httpsflag,XGBoost,2,Precision,0.862547288776797
+without httpsflag,XGBoost,2,Recall,0.95
+without httpsflag,XGBoost,2,F1,0.9041639127561136
+without httpsflag,XGBoost,2,ROC-AUC,0.9565413842678168
+without httpsflag,XGBoost,2,MCC,0.7668483699745671
+without httpsflag,XGBoost,3,Accuracy,0.8065749235474006
+without httpsflag,XGBoost,3,Precision,0.755750273822563
+without httpsflag,XGBoost,3,Recall,0.9583333333333334
+without httpsflag,XGBoost,3,F1,0.8450704225352113
+without httpsflag,XGBoost,3,ROC-AUC,0.9333120748299321
+without httpsflag,XGBoost,3,MCC,0.627423476569478
+without httpsflag,XGBoost,4,Accuracy,0.9088
+without httpsflag,XGBoost,4,Precision,0.8778054862842892
+without httpsflag,XGBoost,4,Recall,0.9777777777777777
+without httpsflag,XGBoost,4,F1,0.9250985545335085
+without httpsflag,XGBoost,4,ROC-AUC,0.982046645702306
+without httpsflag,XGBoost,4,MCC,0.8171111510927995
