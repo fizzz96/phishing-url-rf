@@ -14,13 +14,13 @@ Click **Open in Colab**, then *Runtime → Run all*. The notebook downloads the 
 |---|---|---|
 | `data/train_features.csv` | 6,298 | `b62d19c9d1f07d504cbfac679a06bd07c7b212926e24947cfcb9eb4c10706c2a` |
 | `data/test_features.csv` | 1,575 | `9cf35014953f51dac1b249cbaf067f00b40b259480af488a251f8753c214fb4e` |
-| `data/cv_folds.csv` | 6,298 | `8faedd891cfed668eed58790a462857c977c21dc2998184d67cafdccd3629d38` |
+| `data/cv_folds.csv` | 6,298 | `70533f5a41db53bf7d9c24b2d3c1509fe8ccc371f5272ee448658c0c4cc85ace` |
 
 Comma-delimited. `ClassLabel`: 1 = phishing, 0 = legitimate. 24 lexical URL features (21 used after dropping zero-variance columns).
 
 ## Shared cross-validation folds (for all models)
 
-Every classifier in the comparison must use the folds in `data/cv_folds.csv`, not its own `KFold` or `StratifiedGroupKFold`. Each training URL is assigned to one of five folds, grouped by host so that no site appears in two folds. Identical folds make the per-fold scores of different models directly comparable.
+Every classifier in the comparison must use the folds in `data/cv_folds.csv`, not its own `KFold` or `StratifiedGroupKFold`. Each training URL is assigned to one of five folds, grouped by site (registered domain, so `www.indeed.com` and `id.indeed.com` count as one site). No site appears in two folds; each validation fold holds out 5 of the 25 legitimate sites. Identical folds make the per-fold scores of different models directly comparable.
 
 ```python
 import numpy as np
